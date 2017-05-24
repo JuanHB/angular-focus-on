@@ -2,9 +2,12 @@
   "name": "angular-focus-on",
   "homepage": "https://github.com/JuanHB/angular-focus-on",
   "authors": [
-    "juanhb <juanbiscaia@gmail.com>"
+    "Juan Biscaia"
   ],
   "description": "Focus in any html element after an $scope or $rootScope event",
+  "dependencies": {
+    "angular": ">= 1.3.6"
+  },
   "main": "",
   "license": "MIT",
   "ignore": [
