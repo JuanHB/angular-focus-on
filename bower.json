@@ -1,0 +1,17 @@
+{
+  "name": "angular-focus-on",
+  "homepage": "https://github.com/JuanHB/angular-focus-on",
+  "authors": [
+    "juanhb <juanbiscaia@gmail.com>"
+  ],
+  "description": "Focus in any html element after an $scope or $rootScope event",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
